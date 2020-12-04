@@ -1,0 +1,18 @@
+{
+  "name": "react-express-starter",
+  "version": "1.0.0",
+  "description": "react client in vanilla js and nodejs express in typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts",
+    "build": "npx tsc"
+  },
+  "author": "Andrés Martinez-Losa de Vilhena -> github: avmartinez-losa",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "express": "^4.17.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
